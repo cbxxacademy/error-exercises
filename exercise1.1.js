@@ -1,7 +1,8 @@
 // Exercise 1.1: SyntaxError
-function addNumbers(x, y {
+const addNumbers = (x, y => {
     console.log(x + y);
 }
+
 addNumbers(5,2)
 // The console.log should be: 7
 
