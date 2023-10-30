@@ -15,7 +15,6 @@
     "exercise4.2": "node exercise4.2.js",
     "exercise5.1": "node exercise5.1.js",
     "exercise5.2": "node exercise5.2.js",
-    "all.exercises": "node exercise1.1.js exercise1.2.js exercise2.1.js exercise2.2.js node exercise3.1.js node exercise3.2.js exercise4.1.js exercise4.2.js exercise5.1.js exercise5.2.js"
   },
   "keywords": [],
   "author": "Codeboxx",
