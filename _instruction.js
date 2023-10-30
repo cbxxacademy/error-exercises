@@ -1,5 +1,8 @@
 // Instruction:
 
+// Install the npm packages from package.json, run the command line:
+// npm install /or/ npm i
+
 // To practice and identify errors, follow the steps below for each exercise.
 // Make sure you are in the root folder of the project in your terminal.
 
@@ -9,7 +12,7 @@
 
 // Identify the error type, locate the line number, and explain the nature of the problem.
 
-// Enter the following command for each exercises:
+// Enter the following command for each exercise:
 // node exercise1.1
 // node exercise1.2
 // node exercise2.1
