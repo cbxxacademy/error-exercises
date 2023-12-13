@@ -1,4 +1,4 @@
-// Instruction:
+// Instructions
 
 // Install the npm packages from package.json, run the command line:
 // npm install /or/ npm i
